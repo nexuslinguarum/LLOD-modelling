@@ -1,0 +1,18 @@
+[submodule "linguistic-annotation"]
+	path = linguistic-annotation
+	url = https://github.com/ld4lt/linguistic-annotation.git
+[submodule "metashare"]
+	path = metashare
+	url = https://github.com/ld4lt/metashare.git
+[submodule "ontolex-frac"]
+	path = ontolex-frac
+	url = https://github.com/ontolex/frequency-attestation-corpus-information.git
+[submodule "ontolex-morph"]
+	path = ontolex-morph
+	url = https://github.com/ontolex/morph.git
+[submodule "lexinfo"]
+	path = lexinfo
+	url = https://github.com/ontolex/lexinfo.git
+[submodule "olia"]
+	path = olia
+	url = https://github.com/acoli-repo/olia.git
